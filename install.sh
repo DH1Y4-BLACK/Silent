@@ -1,8 +1,7 @@
 #!/bin/bash
 echo
 echo "Tunggu Sampai Proses Selesai Ya Anjing, Sabar..!"
-echo "Kalo Mau Nyolong Ngaca Dulu Ngentot"
-echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
+echo " Ucapkan Yayan Ganteng 3X Biar Work Xixixv "
 echo
 pkg install python
 clear
